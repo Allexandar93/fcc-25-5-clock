@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fcc-25-5-clock/static/css/main.46fe3d94.chunk.css",
+    "main.js": "/fcc-25-5-clock/static/js/main.3585ffd7.chunk.js",
+    "main.js.map": "/fcc-25-5-clock/static/js/main.3585ffd7.chunk.js.map",
+    "runtime-main.js": "/fcc-25-5-clock/static/js/runtime-main.c5b3dfb8.js",
+    "runtime-main.js.map": "/fcc-25-5-clock/static/js/runtime-main.c5b3dfb8.js.map",
+    "static/css/2.818011ed.chunk.css": "/fcc-25-5-clock/static/css/2.818011ed.chunk.css",
+    "static/js/2.f0009daa.chunk.js": "/fcc-25-5-clock/static/js/2.f0009daa.chunk.js",
+    "static/js/2.f0009daa.chunk.js.map": "/fcc-25-5-clock/static/js/2.f0009daa.chunk.js.map",
+    "static/js/3.13ba8647.chunk.js": "/fcc-25-5-clock/static/js/3.13ba8647.chunk.js",
+    "static/js/3.13ba8647.chunk.js.map": "/fcc-25-5-clock/static/js/3.13ba8647.chunk.js.map",
+    "index.html": "/fcc-25-5-clock/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/fcc-25-5-clock/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.46fe3d94.chunk.css.map": "/fcc-25-5-clock/static/css/main.46fe3d94.chunk.css.map",
+    "static/js/2.f0009daa.chunk.js.LICENSE.txt": "/fcc-25-5-clock/static/js/2.f0009daa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b3dfb8.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f0009daa.chunk.js",
+    "static/css/main.46fe3d94.chunk.css",
+    "static/js/main.3585ffd7.chunk.js"
+  ]
+}
